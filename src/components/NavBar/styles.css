@@ -1,0 +1,25 @@
+.NavBar{
+    background-color: #464d5a;
+    width: 70%;
+    padding: 30px;
+}
+
+.List{
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+}
+
+.ItemList{
+    font-weight: 600;
+    letter-spacing: 2px;
+    display: inline;
+}
+
+.ItemList:hover{
+    color: #333841; 
+}
